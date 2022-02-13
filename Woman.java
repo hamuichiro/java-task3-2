@@ -1,5 +1,5 @@
-public class Woman extends AbstractPerson{
-    public String getGender(){
+public class Woman extends AbstractPerson {
+    public String getGender() {
         return "woman";
     }
 
